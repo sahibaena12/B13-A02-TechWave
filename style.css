@@ -118,11 +118,17 @@ body {
 .wave-left {
   left: 0;
   background-image: url("assets/hero-bg.png");
+<<<<<<< HEAD
   background-repeat: repeat-x;
   width: 1600px;
   height: 760px;
 }
 
+=======
+  width: 1600px;
+  height: 760px;
+}
+>>>>>>> d93c3e40c5f2fceea75d1adcea4ed7a5542b0b04
 .wave {
   position: absolute;
   top: 50%;
@@ -290,6 +296,7 @@ iframe {
   height: 200px;
   border-radius: 15px;
   border: none;
+<<<<<<< HEAD
 } 
 .meet-host {
   width: 100%;
@@ -365,6 +372,10 @@ iframe {
 
 
 
+=======
+}
+
+>>>>>>> d93c3e40c5f2fceea75d1adcea4ed7a5542b0b04
 /* ================= FOOTER ================= */
 .footer {
   padding: 40px;
